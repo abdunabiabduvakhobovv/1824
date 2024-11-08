@@ -1,48 +1,30 @@
-body {
-  background: rgb(1, 1, 48);
-  text-align: center;
+*{
+    
+    padding: 0%;
+    box-sizing: border-box;
 }
 
-span {
-  color: green;
+.wheat-bg{
+    background-color: wheat;
+    text-align: center;
+    
 }
 
-h3 {
-  font-size: 24px;
-  color: yellow;
+.black-bg{
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    height: 650px;
+    
 }
 
-p {
-  color: white;
+.yellow-bg{
+    color: yellow;
 }
-img {
-  width: 350px;
-  height: 315px;
-}
-form,
-table,
-thead,
-th {
-  text-align: center;
-  margin: 0 auto;
-  border-collapse: collapse;
-}
-th,
-td {
-  width: 400px;
-  height: 50px;
-  color: white;
-  border: 3px yellow solid;
-}
-input {
-  width: 100%;
-  height: 30px;
-  outline: none;
-}
-button {
-  background: yellow;
-  width: 300px;
-  height: 50px;
-  border-radius: 50px;
-  margin-top: 20px;
+
+.green-bg{
+    background-color: green;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
 }
