@@ -1,0 +1,48 @@
+body {
+  background: rgb(1, 1, 48);
+  text-align: center;
+}
+
+span {
+  color: green;
+}
+
+h3 {
+  font-size: 24px;
+  color: yellow;
+}
+
+p {
+  color: white;
+}
+img {
+  width: 350px;
+  height: 315px;
+}
+form,
+table,
+thead,
+th {
+  text-align: center;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+th,
+td {
+  width: 400px;
+  height: 50px;
+  color: white;
+  border: 3px yellow solid;
+}
+input {
+  width: 100%;
+  height: 30px;
+  outline: none;
+}
+button {
+  background: yellow;
+  width: 300px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 20px;
+}
